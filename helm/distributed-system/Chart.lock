@@ -1,0 +1,9 @@
+dependencies:
+- name: distributed-app
+  repository: file://../local-registry/distributed-app
+  version: 0.1.0
+- name: distributed-app
+  repository: file://../local-registry/distributed-app
+  version: 0.1.0
+digest: sha256:d55b88134ae9a380fd733c7ae11dde5873f6ee6ba3bf95184824f6127b19a926
+generated: "2023-05-18T18:54:07.322801+01:00"

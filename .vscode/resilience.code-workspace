@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../helm"
+		},
+		{
+			"path": "../ms-api-gateway"
+		},
+		{
+			"path": "../ms-payments"
+		},
+		{
+			"path": "../ms-users"
+		},
+		{
+			"path": "../utils"
+		}
+	],
+	"settings": {}
+}
